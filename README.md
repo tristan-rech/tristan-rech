@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **tristanpedro02@gmail.com**
 
-- 📄 Know about my experiences [Resume](LINK)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/tristan-pedro-2350701b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tristan-pedro-2350701b8" height="30" width="40" /></a>
@@ -24,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripedro&show_icons=true&locale=en&layout=compact&theme=nord" alt="tripedro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tripedro&show_icons=true&locale=en&theme=nord" alt="tripedro" /></p>
+
+<!--- 📄 Know about my experiences [Resume](LINK)>
