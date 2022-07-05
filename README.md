@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan Pedro</h1>
 <h3 align="center">A passionate Undergraduate of Computer Science.</h3>
 
-- 🔭 I’m currently working on [Research within Machine Learning](LINK)
+- 🔭 I’m currently working on [Research within Machine Learning](https://notepad.link/qfsjr)
 
 - 🌱 I’m currently learning **Python, Tensorflow, Keras, Plotly, Pandas**
 
