@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tristanpedro02@gmail.com**
 
-- 💻 Currently practicing interview questions on [HackerRank](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges)
+- 💻 I'm currently practicing interview questions on [HackerRank](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges) in my free time.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/tristan-pedro-2350701b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tristan-pedro-2350701b8" height="30" width="40" /></a>
