@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan Pedro</h1>
 <h3 align="center">A passionate Undergraduate of Computer Science.</h3>
 
+- 🌐 [Portfolio Website](https://tripedro.github.io/)
 - 🔭 I’m currently working on [Research within Machine and Deep Learning](https://notepad.link/qfsjr)
 
 - 🌱 I’m currently learning **Python, Pandas, Numpy, Tensorflow, Keras, and Plotly.**
