@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tristan Pedro</h1>
 <h3 align="center">An Undergraduate of Computer Science.</h3>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🌐 [Portfolio Website](https://tripedro.github.io/)
