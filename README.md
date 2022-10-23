@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tristan Pedro</h1>
 <h3 align="center">An Undergraduate of Computer Science.</h3>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 - 🌐 [Portfolio Website](https://tripedro.github.io/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,8 +16,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tripedro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/tripedro/](https://www.linkedin.com/in/tripedro/)" height="30" width="40" /></a>
 </p>
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
