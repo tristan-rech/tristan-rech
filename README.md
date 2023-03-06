@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Research within Machine and Deep Learning](https://notepad.link/qfsjr)
 
-- 🌱 I’m currently learning **Python, Pandas, Numpy, Tensorflow, Keras, and Plotly.**
-
 - 📫 How to reach me **tristanpedro02@gmail.com**
 
 - 💻 I'm currently practicing interview questions in my free time.
