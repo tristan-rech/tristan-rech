@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tristan Pedro</h1>
 <h3 align="center">An Undergraduate of Computer Science.</h3>
-
+- 👀 I’m interested in machine learning, deep learning, and data analytics, especially how it applies to the medical field
 - 📫 How to reach me **tristanpedro02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
