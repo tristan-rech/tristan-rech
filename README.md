@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tristan Pedro</h1>
+<h1>Hi 👋, I'm Tristan Pedro</h1>
 
 - 👀 I'm interested in machine learning and data analytics, especially in their applications to the medical field
 
