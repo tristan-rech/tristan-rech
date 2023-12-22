@@ -16,7 +16,4 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripedro&show_icons=true&locale=en&layout=compact&theme=nord" alt="tripedro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tripedro&show_icons=true&locale=en&theme=nord" alt="tripedro" /></p>
-
 <!--- 📄 Know about my experiences [Resume](LINK)>
