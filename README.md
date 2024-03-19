@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Tristan Pedro</h1>
+<h1>Hi 👋, I'm Tristan Rech</h1>
 
 - 🧑‍🎓 I'm a Senior CS student @ Texas State University, Graduating May 2024!
   
@@ -6,7 +6,7 @@
 
 - 👀 My interests are in machine learning and data analytics, especially in their applications to the medical field.
 
-- 📫 Do not hesitate to reach out to connect. **tristanpedro02@gmail.com**
+- 📫 Do not hesitate to reach out to connect. **tristanrech02@gmail.com**
 
 <h3 align="left">Connect with Me on LinkedIn:</h3>
 <p align="left">
