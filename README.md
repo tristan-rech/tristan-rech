@@ -16,7 +16,7 @@
 <h3 align="left">Languages Across my GitHub Repository:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripedro&show_icons=true&locale=en&layout=compact&theme=transparent&hide_progress=true" alt="tripedro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristan-rech&show_icons=true&locale=en&layout=compact&theme=transparent&hide_progress=true" alt="tripedro" /></p>
 
 <!--- 📄 Know about my experiences [Resume](LINK)>
 
