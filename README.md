@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Tristan Rech</h1>
 
-- 🧑‍🎓 I recently graduated with a degree in Computer Science from Texas State University!
-  
-- 🧑‍💻 I'm also an incoming Software Engineer 1 @ Dell Technologies in their IT Development Program!
+- 🧑‍💻 I'm a Software Engineer 1 @ Dell Technologies in their IT Development Program!
 
-- 👀 My interests are in machine learning and data analytic, especially in their applications to the medical field.
+- 🧑‍🎓 I graduated with a degree in Computer Science from Texas State University!
+
+- 👀 My interest is in artifiicial intelligence, especially in its application to the medical field.
 
 - 📫 Do not hesitate to reach out to connect. **tristanrech02@gmail.com**
 
