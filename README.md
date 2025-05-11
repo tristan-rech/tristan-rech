@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Tristan Rech</h1>
 
-- 🧑‍💻 I'm a Software Engineer 1 @ Dell Technologies in their IT Development Program!
+- I'm a Machine Learning Engineer @ Dell Technologies.
 
-- 🧑‍🎓 I graduated with a degree in Computer Science from Texas State University!
+- I am currently pursuing my master's in computer science part time at University of Texas at Austin.
 
-- 👀 My interest is in artifiicial intelligence, especially in its application to the medical field.
+- My interests are in machine learning, especially in its application to the medical field.
 
-- 📫 Do not hesitate to reach out to connect. **tristanrech02@gmail.com**
+- Do not hesitate to reach out to connect **tristanrech02@gmail.com**.
 
 <h3 align="left">Connect with Me on LinkedIn:</h3>
 <p align="left">
