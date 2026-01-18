@@ -6,8 +6,6 @@
 
 - My interests are in machine learning, especially in its application to the medical field.
 
-- Do not hesitate to reach out to connect **tristanrech02@gmail.com**.
-
 <h3 align="left">Connect with Me on LinkedIn:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tripedro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/tripedro/](https://www.linkedin.com/in/tripedro/)" height="30" width="40" /></a>
